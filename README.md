@@ -23,7 +23,7 @@ Usage
 Clone this repository to your local machine:
 
 
-git clone https://github.com/milltMilly1/printf.git
+git clone https://github.com/millyMilly1/printf.git
 
 
 Include the printf.h header file in your C code:
